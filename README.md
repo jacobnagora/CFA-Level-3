@@ -1,2 +1,2 @@
 # CFA-Level-3
-Calculations, written as functions, as taken from studying for the CFA Level 3 exam.
+A collection of CFA Level III exam calculations, by topic, each written as a Python function.
